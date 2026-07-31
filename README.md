@@ -33,19 +33,19 @@ This dashboard addresses these challenges by converting raw advertising data int
 
 ## Dataset Information
 
-**Dataset Name**
+**Dataset Name** :
 Global Ads Performance Dataset
 
-**Dataset Type**
+**Dataset Type** :
 Marketing Analytics
 
-**File Format**
+**File Format** :
 CSV
 
-**Records**
+**Records** :
 1,800 advertising campaign records
 
-**Features**
+**Features** :
 14 columns
 
 The dataset contains campaign performance information collected across multiple countries, industries, advertising platforms, and campaign types.
@@ -159,13 +159,21 @@ During this project, the following Excel concepts were applied:
 The dashboard focuses on the most important advertising metrics including:
 
 **Total Revenue**
+
 **Total Ad Spend**
+
 **Total Clicks**
+
 **Total Impressions**
+
 **Total Conversions**
+
 **Average ROAS**
+
 **Average CPC**
+
 **Average CPA**
+
 **Average CTR**
 These KPIs provide an overall picture of campaign effectiveness.
 
