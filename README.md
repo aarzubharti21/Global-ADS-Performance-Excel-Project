@@ -1,6 +1,10 @@
 # Global-ADS-Performance-Excel-Projet
 # Global Ads Performance Dashboard
 
+<p align="center">
+  <img src="Screenshot%20global%20ads%20dashboard.png" alt="Global Ads Performance Dashboard" width="1000"/>
+</p>
+
 ## Project Overview
 
 This project analyzes the performance of digital advertising campaigns across multiple countries, industries, platforms, and campaign types using Microsoft Excel. The objective was to transform raw advertising data into an interactive dashboard that allows decision-makers to monitor campaign performance, identify profitable markets, evaluate advertising efficiency, and support budget allocation decisions.
