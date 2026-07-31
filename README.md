@@ -1,11 +1,10 @@
-# Global-ADS-Performance-Excel-Projet
 # Global Ads Performance Dashboard
 
 <p align="center">
   <img src="Screenshot%20global%20ads%20dashboard.png" alt="Global Ads Performance Dashboard" width="1000"/>
 </p>
 
-## Project Overview
+# Project Overview
 
 This project analyzes the performance of digital advertising campaigns across multiple countries, industries, platforms, and campaign types using Microsoft Excel. The objective was to transform raw advertising data into an interactive dashboard that allows decision-makers to monitor campaign performance, identify profitable markets, evaluate advertising efficiency, and support budget allocation decisions.
 
@@ -31,7 +30,7 @@ The main challenges include:
 
 This dashboard addresses these challenges by converting raw advertising data into meaningful business insights.
 
-## Dataset Information
+# Dataset Information
 
 **Dataset Name** :
 Global Ads Performance Dataset
@@ -50,7 +49,7 @@ CSV
 
 The dataset contains campaign performance information collected across multiple countries, industries, advertising platforms, and campaign types.
 
-## Dataset Columns
+# Dataset Columns
 Date - Campaign date 
 
 Platform - Advertising platform 
@@ -79,7 +78,7 @@ Revenue -  Revenue generated
 
 ROAS -  Return on Ad Spend 
 
-## Project Objectives
+# Project Objectives
 The primary objectives of this project were:
 - Analyze advertising campaign performance
   
@@ -114,17 +113,17 @@ The primary objectives of this project were:
   
 - Dashboard Design
 
-## Excel Skills Applied
+# Excel Skills Applied
 During this project, the following Excel concepts were applied:
 
-### Data Cleaning
+## Data Cleaning
 - Checked missing values
   
 - Removed inconsistencies
   
 - Corrected data formats
 
-### Data Analysis
+## Data Analysis
 - Pivot Tables
   
 - Pivot Charts
@@ -135,7 +134,7 @@ During this project, the following Excel concepts were applied:
   
 - Aggregation
 
-### Dashboard Development
+## Dashboard Development
 - Interactive slicers
   
 - KPI cards
@@ -144,7 +143,7 @@ During this project, the following Excel concepts were applied:
   
 - Professional dashboard layout
 
-### Business Analysis
+# Business Analysis
 - Performance comparison
   
 - Trend analysis
@@ -177,16 +176,16 @@ The dashboard focuses on the most important advertising metrics including:
 **Average CTR**
 These KPIs provide an overall picture of campaign effectiveness.
 
-## Dashboard Features
+# Dashboard Features
 The dashboard is fully interactive.
 Users can filter results using slicers to analyze performance by different dimensions.
 
 The dashboard enables quick comparisons between platforms, countries, industries, and campaign types without changing the underlying data.
 
-## Dashboard Analysis
+# Dashboard Analysis
 The dashboard answers several important business questions.
 
-# Platform Performance
+## Platform Performance
 Compare advertising platforms based on:
 
 - Revenue
@@ -214,15 +213,15 @@ Evaluate campaign performance across different countries by comparing:
 
 This helps determine the strongest and weakest performing markets.
 
-# Industry Performance
+## Industry Performance
 Analyze how different industries respond to advertising campaigns.
 The dashboard highlights industries that produce higher revenue and stronger advertising returns.
 
-# Campaign Type Analysis
+## Campaign Type Analysis
 Compare campaign types such as Search, Display, Video, Social, or Shopping campaigns.
 Users can evaluate which campaign strategy performs better across different business sectors.
 
-# Revenue Analysis
+## Revenue Analysis
 Revenue trends help identify:
 - High revenue markets
   
@@ -232,11 +231,11 @@ Revenue trends help identify:
   
 - Business growth opportunities
 
-# ROAS Analysis
+## ROAS Analysis
 Return on Ad Spend (ROAS) is one of the most important business metrics.
 The dashboard makes it easy to identify campaigns that generate the greatest return for every advertising dollar invested.
 
-# Marketing Efficiency
+## Marketing Efficiency
 The dashboard evaluates advertising efficiency using:
 - CTR
   
