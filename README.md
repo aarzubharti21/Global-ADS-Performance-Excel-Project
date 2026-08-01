@@ -1,9 +1,5 @@
 # Global Ads Performance Dashboard
 
-<p align="center">
-  <img src="Screenshot%20global%20ads%20dashboard.png" alt="Global Ads Performance Dashboard" width="1000"/>
-</p>
-
 # Project Overview
 
 This project analyzes the performance of digital advertising campaigns across multiple countries, industries, platforms, and campaign types using Microsoft Excel. The objective was to transform raw advertising data into an interactive dashboard that allows decision-makers to monitor campaign performance, identify profitable markets, evaluate advertising efficiency, and support budget allocation decisions.
@@ -32,54 +28,52 @@ This dashboard addresses these challenges by converting raw advertising data int
 
 # Dataset Information
 
-**Dataset Name** :
-Global Ads Performance Dataset
+1.**Dataset Name** :Global Ads Performance Dataset
 
-**Dataset Type** :
-Marketing Analytics
+2.**Dataset Type** : Marketing Analytics
 
-**File Format** :
-CSV
+3.**File Format** : CSV
 
-**Records** :
-1,800 advertising campaign records
+4.**Records** : 1,800 advertising campaign records
 
-**Features** :
-14 columns
+5.**Features** : 14 columns
 
 The dataset contains campaign performance information collected across multiple countries, industries, advertising platforms, and campaign types.
 
 # Dataset Columns
-Date - Campaign date 
 
-Platform - Advertising platform 
+**Date** - Campaign date 
 
-Campaign Type -  Search, Display, Video, etc. 
+**Platform** - Advertising platform 
 
-Industry -  Business sector
+**Campaign Type** -  Search, Display, Video, etc. 
 
-Country -  Campaign location 
+**Industry** -  Business sector
 
-Impressions -  Total ad impressions 
+**Country** -  Campaign location 
 
-Clicks -  Number of clicks 
+**Impressions** -  Total ad impressions 
 
-CTR - Click Through Rate 
+**Clicks** -  Number of clicks 
 
-CPC -  Cost Per Click
+**CTR** - Click Through Rate 
 
-Ad Spend -  Marketing spend 
+**CPC** -  Cost Per Click
 
-Conversions -  Successful conversions 
+**Ad Spend** -  Marketing spend 
 
-CPA -  Cost Per Acquisition 
+**Conversions** -  Successful conversions 
 
-Revenue -  Revenue generated 
+**CPA** -  Cost Per Acquisition 
 
-ROAS -  Return on Ad Spend 
+**Revenue** -  Revenue generated 
+
+**ROAS** -  Return on Ad Spend 
 
 # Project Objectives
+
 The primary objectives of this project were:
+
 - Analyze advertising campaign performance
   
 - Measure marketing efficiency using KPIs
@@ -97,6 +91,7 @@ The primary objectives of this project were:
 - Support data-driven marketing decisions
 
 # Tools Used
+
 - Microsoft Excel
   
 - Pivot Tables
@@ -114,9 +109,11 @@ The primary objectives of this project were:
 - Dashboard Design
 
 # Excel Skills Applied
+
 During this project, the following Excel concepts were applied:
 
 ## Data Cleaning
+
 - Checked missing values
   
 - Removed inconsistencies
@@ -124,6 +121,7 @@ During this project, the following Excel concepts were applied:
 - Corrected data formats
 
 ## Data Analysis
+
 - Pivot Tables
   
 - Pivot Charts
@@ -135,6 +133,7 @@ During this project, the following Excel concepts were applied:
 - Aggregation
 
 ## Dashboard Development
+
 - Interactive slicers
   
 - KPI cards
@@ -144,6 +143,7 @@ During this project, the following Excel concepts were applied:
 - Professional dashboard layout
 
 # Business Analysis
+
 - Performance comparison
   
 - Trend analysis
@@ -155,37 +155,41 @@ During this project, the following Excel concepts were applied:
 - Marketing efficiency analysis
 
 # Dashboard KPIs
+
 The dashboard focuses on the most important advertising metrics including:
 
-**Total Revenue**
+1.**Total Revenue**
 
-**Total Ad Spend**
+2.**Total Ad Spend**
 
-**Total Clicks**
+3.**Total Clicks**
 
-**Total Impressions**
+4.**Total Impressions**
 
-**Total Conversions**
+5.**Total Conversions**
 
-**Average ROAS**
+6.**Average ROAS**
 
-**Average CPC**
+7.**Average CPC**
 
-**Average CPA**
+8.**Average CPA**
 
-**Average CTR**
+9.**Average CTR**
 These KPIs provide an overall picture of campaign effectiveness.
 
 # Dashboard Features
+
 The dashboard is fully interactive.
 Users can filter results using slicers to analyze performance by different dimensions.
 
 The dashboard enables quick comparisons between platforms, countries, industries, and campaign types without changing the underlying data.
 
 # Dashboard Analysis
+
 The dashboard answers several important business questions.
 
-## Platform Performance
+1.**Platform Performance**
+
 Compare advertising platforms based on:
 
 - Revenue
@@ -200,7 +204,8 @@ Compare advertising platforms based on:
 
 This helps identify which platform generates the highest return on investment.
 
-## Country Analysis
+2.**Country Analysis**
+
 Evaluate campaign performance across different countries by comparing:
 
 - Revenue
@@ -213,16 +218,20 @@ Evaluate campaign performance across different countries by comparing:
 
 This helps determine the strongest and weakest performing markets.
 
-## Industry Performance
+3.**Industry Performance**
+
 Analyze how different industries respond to advertising campaigns.
 The dashboard highlights industries that produce higher revenue and stronger advertising returns.
 
-## Campaign Type Analysis
+4.**Campaign Type Analysis**
+
 Compare campaign types such as Search, Display, Video, Social, or Shopping campaigns.
 Users can evaluate which campaign strategy performs better across different business sectors.
 
-## Revenue Analysis
+5.**Revenue Analysis**
+
 Revenue trends help identify:
+
 - High revenue markets
   
 - Revenue distribution
@@ -231,11 +240,13 @@ Revenue trends help identify:
   
 - Business growth opportunities
 
-## ROAS Analysis
+6.**ROAS Analysis**
+
 Return on Ad Spend (ROAS) is one of the most important business metrics.
 The dashboard makes it easy to identify campaigns that generate the greatest return for every advertising dollar invested.
 
-## Marketing Efficiency
+7.**Marketing Efficiency**
+
 The dashboard evaluates advertising efficiency using:
 - CTR
   
@@ -248,6 +259,7 @@ The dashboard evaluates advertising efficiency using:
 These metrics help determine whether advertising budgets are being utilized effectively.
 
 # Business Insights
+
 The dashboard can be used to answer questions such as:
 
 - Which platform generates the highest revenue?
@@ -267,7 +279,9 @@ The dashboard can be used to answer questions such as:
 - How efficiently is marketing budget being utilized?
 
 # Business Value
+
 This dashboard provides value by helping marketing teams:
+
 - Monitor campaign performance in real time
   
 - Improve advertising efficiency
@@ -283,6 +297,7 @@ This dashboard provides value by helping marketing teams:
 - Reduce inefficient advertising spend
 
 # Key Learnings
+
 This project strengthened my understanding of:
 
 - Excel Dashboard Development
